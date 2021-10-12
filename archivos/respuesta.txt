@@ -1,0 +1,2 @@
+Al momento de tratar de hacer el commit, GitHub no me lo permitía.
+El problema se debe a que la carpeta está vacía, por lo tanto GitHub no lo percibe como un cambio. 
