@@ -4,3 +4,9 @@ Mis aspiraciones con la materia son:
 1. Expandir mis conocimientos sobre programación.
 2. Demostrar los conocimientos aprendidos en un proyecto bien estructurado.
  
+En el paso anterior creamos un el archivo "respuesta.txt" dentro de la carpeta "archivos" ("archivos ya no está vacía).
+Es por esto que GitHub lo tiene en cuenta como un cambio, y me permite crear un commit y subir la carpeta. 
+
+Es importante tener cuidado con modificar dos archivos al mismo tiempo 
+porque al realizar un pull y proceder con la mezcla de nuestros archivos
+puede existir un conflicto.
