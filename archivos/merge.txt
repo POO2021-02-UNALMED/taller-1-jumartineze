@@ -1,0 +1,2 @@
+En el paso anterior creamos un el archivo "respuesta.txt" dentro de la carpeta "archivos" ("archivos ya no está vacía).
+Es por esto que GitHub lo tiene en cuenta como un cambio, y me permite crear un commit y subir la carpeta. 
